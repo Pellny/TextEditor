@@ -55,7 +55,7 @@ public class TextEditor extends JFrame {
         menuBar.add(fileMenu);
         this.setJMenuBar(menuBar);
 
-        this.setTitle("Lukas Pellny Text Editor");
+        this.setTitle("Text Editor");
         this.setSize(600, 400);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
